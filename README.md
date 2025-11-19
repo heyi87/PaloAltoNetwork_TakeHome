@@ -53,7 +53,7 @@ You can install them with:
 pip install -r requirements.txt
 # or
 pip install pandas numpy matplotlib scikit-learn lifetimes jupyter
-
+```
 
 1. Problem Framing & Approach
 Business problem
