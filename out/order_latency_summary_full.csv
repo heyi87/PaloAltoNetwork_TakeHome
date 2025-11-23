@@ -1,4 +1,0 @@
-,count,mean,std,min,50%,90%,95%,max
-created_to_shipped_days,50937.0,1.5,0.87,0.0,1.5,2.7,2.85,3.0
-shipped_to_delivered_days,32426.0,2.49,1.44,0.0,2.48,4.5,4.75,5.0
-delivered_to_returned_days,6193.0,1.48,0.88,0.0,1.47,2.71,2.85,3.0

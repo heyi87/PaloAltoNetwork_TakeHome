@@ -1,9 +1,0 @@
-metric,value
-primary_date_key,created_at
-primary_date_column,created_at
-data_start_utc,2019-01-10 00:24:00+00:00
-data_end_utc,2025-08-27 19:24:57.272875+00:00
-window_days,2422
-window_months,79.57
-window_years,6.63
-distinct_months_with_orders,80
